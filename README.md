@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [jm33-ng](https://jm33.me)
+I'm [jm33-ng](https://jm33.me/pages/about.html)
 
 * 🔭 Cyber security
 * 🌱 A boring person
