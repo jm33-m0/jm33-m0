@@ -10,12 +10,12 @@ I'm [jm33-ng](https://jm33.me/pages/about.html)
 
 ### What I do
 
-I weaponize red teaming works, write utilities for daily work, use Linux / Windows / vim / golang / python / bash /powershell / c# / c, etc
+I weaponize red teaming works, write utilities for daily work
 
 ### Contact me
 
 [https://jm33.me/pages/got-something-to-say.html](https://jm33.me/pages/got-something-to-say.html)
 
-### Support me
+### Support my work
 
 <a href="https://www.patreon.com/jm33_ng"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon donate button" /> </a>
