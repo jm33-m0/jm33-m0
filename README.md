@@ -10,7 +10,7 @@ I'm [jm33-ng](https://jm33.me/pages/about.html)
 
 ### What I do
 
-I weaponize red teaming works, write utilities for daily work
+I weaponize red teaming works, currently linux based
 
 ### Contact me
 
