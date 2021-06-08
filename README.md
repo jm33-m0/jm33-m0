@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm [jm33-ng](https://jm33.me/pages/about.html)
+I'm [jm33-ng](https://jm33.me/pages/jm33-ngs-cv.html)
 
+* [ASU](https://www.asu.edu/) MCS student
 * 🔭 Cyber security
 * 🌱 Ordinary freak
 * 📫 https://jm33.me
@@ -10,7 +11,7 @@ I'm [jm33-ng](https://jm33.me/pages/about.html)
 
 ### What I do
 
-I weaponize red teaming works, currently linux based
+I weaponize redteaming works, currently linux based
 
 ### Contact me
 
