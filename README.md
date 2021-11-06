@@ -9,6 +9,8 @@ I'm [jm33-ng](https://jm33.me/pages/jm33-ngs-cv.html)
 
 [![jm33-m0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jm33-m0&show_icons=true&hide_title=true)](https://github.com/jm33-m0)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### What I do
 
 I weaponize redteaming works, currently linux based
