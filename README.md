@@ -11,7 +11,7 @@ I'm [jm33-ng](https://jm33.me/pages/jm33-ngs-cv.html)
 
 ### What I do
 
-I weaponize redteaming works, currently linux based
+I weaponize red teaming works
 
 ### Contact me
 
