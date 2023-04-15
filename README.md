@@ -2,7 +2,7 @@
 
 I'm [jm33-ng](https://jm33.me/pages/jm33-ngs-cv.html)
 
-* 🏫 [ASU](https://www.asu.edu/) & [SFU](https://www.sfu.ca/) MCS student
+* 🏫 [SFU](https://www.sfu.ca/) MCS student
 * 🔭 Cyber security
 * 🌱 Ordinary freak
 * 📫 https://jm33.me
