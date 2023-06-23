@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [jm33-ng](https://jm33.me/pages/jm33-ngs-cv.html)
+I'm [Jing Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
 
 * 🏫 [SFU](https://www.sfu.ca/) MCS student
 * 🔭 Cyber security
