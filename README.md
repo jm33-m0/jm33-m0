@@ -6,6 +6,7 @@ I'm [Jing Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
 * 🔭 Cyber security
 * 🌱 Ordinary freak
 * 📫 https://jm33.me
+* <a rel="me" href="https://infosec.exchange/@jm33">🐘 Mastodon</a>
 
 [![jm33-m0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jm33-m0&show_icons=true&hide_title=false)](https://github.com/jm33-m0)
 
