@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Jing Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
+I'm [Jimmy Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
 
 * 🏫 Master of Cybersecurity@[Monash](https://www.monash.edu)
 * 📫 https://jm33.me
