@@ -2,7 +2,7 @@
 
 I'm [Jimmy Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
 
-* 🏫 Master of Cybersecurity@[Monash](https://www.monash.edu)
+* 🏫 Master of Cyber Security@[Monash](https://www.monash.edu)
 * 📫 https://jm33.me
 * 🐘 <a rel="me" href="https://infosec.exchange/@jm33">jm33@infosec.exchange</a>
 
