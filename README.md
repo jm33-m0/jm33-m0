@@ -12,7 +12,7 @@ I'm [Jimmy Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
 
 ### What I do
 
-I weaponize red teaming works
+I weaponize offensive security techniques
 
 ### Contact me
 
