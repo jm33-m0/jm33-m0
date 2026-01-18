@@ -4,7 +4,7 @@ I'm [Jimmy Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
 
 * 🎓 Master of Cyber Security (Graduated) - [Monash University](https://www.monash.edu)
 * 📍 Melbourne, Australia
-* 💼 **Open to job opportunities** in cybersecurity and software development
+* 💼 **Open to job opportunities** in malware analysis, offensive security R&D, SOC and blueteam
 * 📫 https://jm33.me
 * 🐘 <a rel="me" href="https://infosec.exchange/@jm33">jm33@infosec.exchange</a>
 
