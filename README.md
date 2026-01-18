@@ -2,21 +2,29 @@
 
 I'm [Jimmy Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
 
-* 🏫 Master of Cyber Security@[Monash](https://www.monash.edu)
+* 🎓 Master of Cyber Security (Graduated) - [Monash University](https://www.monash.edu)
+* 📍 Melbourne, Australia
+* 💼 **Open to job opportunities** in cybersecurity and software development
 * 📫 https://jm33.me
 * 🐘 <a rel="me" href="https://infosec.exchange/@jm33">jm33@infosec.exchange</a>
 
-### What I do
+### Skills & Expertise
 
-I weaponize offensive security techniques and develop tools for penetration testing and red team operations.
+**Programming Languages**
+- Go, C, C#, Python, Shell
 
-### Featured Projects
+**Cybersecurity**
+- Offensive Security & Penetration Testing
+- Post-Exploitation Frameworks & C2 Development
+- Malware Analysis & Reverse Engineering
+- Privilege Escalation & Exploit Development
+- Red Team Operations
 
-- **[emp3r0r](https://github.com/jm33-m0/emp3r0r)** ⭐ 1.7k - Linux/Windows post-exploitation framework with advanced C2 capabilities
-- **[kms-activate](https://github.com/jm33-m0/kms-activate)** ⭐ 926 - Microsoft Windows/Office one-click activation tool
-- **[mec](https://github.com/jm33-m0/mec)** ⭐ 612 - Mass exploitation and penetration testing toolbox
-- **[SSH-Harvester](https://github.com/jm33-m0/SSH-Harvester)** ⭐ 375 - Harvests passwords automatically from OpenSSH server
-- **[windows-sandbox-init](https://github.com/jm33-m0/windows-sandbox-init)** ⭐ 146 - Rapidly initialize Windows Sandbox for malware analysis
+**Technical Focus**
+- Linux/Windows Security
+- Network Security & Protocol Analysis
+- System Automation & Tool Development
+- Security Research & Vulnerability Assessment
 
 ### Contact me
 
