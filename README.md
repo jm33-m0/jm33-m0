@@ -11,14 +11,13 @@ I'm [Jimmy Mi (jm33-ng)](https://jm33.me/pages/jing-mi.html)
 ### Skills & Expertise
 
 **Programming Languages**
-- Go, C, C#, Python, Shell
+- Go, C, Assembly, C#, Python, Shell
 
 **Cybersecurity**
-- Offensive Security & Penetration Testing
-- Post-Exploitation Frameworks & C2 Development
+- Offensive Security R&D
+- C2/Malware/Exploit Development
+- Threat Detection & Incident Response
 - Malware Analysis & Reverse Engineering
-- Privilege Escalation & Exploit Development
-- Red Team Operations
 
 **Technical Focus**
 - Linux/Windows Security
